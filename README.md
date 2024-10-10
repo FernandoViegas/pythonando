@@ -1,0 +1,1 @@
+Projeto de uso pessoal com objetivo de Centralizar diversos Scripts Python.
